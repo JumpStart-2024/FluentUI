@@ -1,4 +1,4 @@
-Instructions to Run FluentUI: 
+<u>**Instructions to Run FluentUI**</u>
 
 **Prerequisites**
 - Install Visual Studio: Ensure you have Visual Studio installed. You can download it from the Visual Studio website.
